@@ -52,4 +52,5 @@ In today's competitive job market, students often struggle to assess their readi
 By leveraging data and machine learning, this project provides a **smart and efficient** way to assess placement chances, ultimately helping students and institutions achieve better employment outcomes.  
 
 #Output
+![Image](https://github.com/user-attachments/assets/f3a5c119-30ef-4470-9daf-1d4d715a0a12)
 
