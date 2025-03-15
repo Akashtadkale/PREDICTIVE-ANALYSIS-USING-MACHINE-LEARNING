@@ -50,3 +50,6 @@ In today's competitive job market, students often struggle to assess their readi
 - **Automated Placement Training Modules** based on student performance.  
 
 By leveraging data and machine learning, this project provides a **smart and efficient** way to assess placement chances, ultimately helping students and institutions achieve better employment outcomes.  
+
+#Output
+
